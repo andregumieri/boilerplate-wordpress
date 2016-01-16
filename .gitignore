@@ -1,7 +1,6 @@
 www/wp-content/themes/twenty*
 .vagrant
 .DS_Store
-www/wp-content/themes/quist2016
 docs/*
 src/vendor/*
 !src/vendor/downloaded
