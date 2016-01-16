@@ -180,6 +180,6 @@ module.exports = {
 		dst_dump: './xtras/db',
 		user: 'root',
 		pass: 'root',
-		name: 'quist2016'
+		name: 'wordpress'
 	}
 }
