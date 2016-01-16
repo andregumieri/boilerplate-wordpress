@@ -1,0 +1,9 @@
+www/wp-content/themes/twenty*
+.vagrant
+.DS_Store
+docs/*
+src/vendor/*
+!src/vendor/downloaded
+!src/vendor/vendor.json
+node_modules
+npm-debug.log
