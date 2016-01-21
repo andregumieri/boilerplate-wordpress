@@ -19,6 +19,7 @@ module.exports = {
 		dst: dst,
 
 		workers: Config.workers,
+		proxy_mapping: Config.proxy_mapping,
 
 		tasks: {
 			default: [

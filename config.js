@@ -28,11 +28,9 @@ module.exports = {
 	],
 	*/
 
-	/*
 	proxy_mapping: [
 		// local path (from root), remote path
 		//["dist/scripts/", "scripts/"],
 		//["dist/css/", "css/"]
-	]
-	*/
+	];
 }
